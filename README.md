@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @simplybhaskar
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on any exiting project
+- 💞️ I’m looking to collaborate on any exciting project
 - 📫 How to reach me bhaskardey73@gmail.com
 
 <!---
