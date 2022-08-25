@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @simplybhaskar
+- 👋 Hi, I’m Bhaskar
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on any exciting project
